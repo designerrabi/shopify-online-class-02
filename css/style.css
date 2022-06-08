@@ -1,0 +1,65 @@
+body{
+      margin: 0;
+    }
+    section{
+      text-align: center;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-blend-mode: darken; */
+    
+    
+
+    }
+   .jaflongPhoto{
+    background: #52cfcb;
+    background-image: url(../images/images6.jpg);
+    background-size: cover;
+    background-position-y: bottom;
+    
+}
+    
+    
+  .badman{
+    background: #ed7e0c;
+    background-image: url(../images/images1.jpg);
+    background-size: cover;
+    background-position-y: center;
+    
+  }
+
+    .goodgirl{
+      background: #51b2ee;
+      background-image: url(../images/images3.jpg );
+      background-size: cover;
+      background-position-y: center;
+      
+    }
+    
+    
+    .badgirl{
+      background:#6abc4c;
+      background-image: url(../images/images4.jpg);
+      background-size: cover;
+      background-position-y: center;
+      
+
+    }
+
+
+    h1 {
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 3px;
+    }
+
+    strong{
+      font-family: 'Dancing Script', cursive;
+      font-weight: 900;
+      font-size: 90px;
+    }
+   
+  
